@@ -8,5 +8,5 @@
 41. git init (Clone ve moi git init vao thu muc do)
 5. Add file vao thu muc moi clone.
 6. git add file_name (Using_git.txt) test by: git status
-7. git commit - m "Comment git content" or git commit -m "Comment" Using_git.txt
+7. git commit - m "Comment git content" or git commit -m "Comment" Using_git.txt ((git commit -m "Noi dung ghi chu" .))
 8. git push -u origin master 
