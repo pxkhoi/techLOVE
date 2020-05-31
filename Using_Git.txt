@@ -1,0 +1,10 @@
+1. Cai git-scm bash shell unix
+2. Tao tai khoan tren github.com
+3. Tao repository tren github.com
+3. Tren git bash shell go: 
+	git config --global user.name "pxkhoi"
+	git config --global user.email "pxkhoi@gmail.com"
+4. Tren shell: git clone https://github.com/pxkhoi/techLOVE.git
+5. Add file vao thu muc moi clone.
+6. git add file_name 
+
