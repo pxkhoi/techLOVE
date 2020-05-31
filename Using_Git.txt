@@ -5,6 +5,7 @@
 	git config --global user.name "pxkhoi"
 	git config --global user.email "pxkhoi@gmail.com"
 4. Tren shell: git clone https://github.com/pxkhoi/techLOVE.git
+41. git init 
 5. Add file vao thu muc moi clone.
 6. git add file_name (Using_git.txt) test by: git status
 7. git commit - m "Comment git content" or git commit -m "Comment" Using_git.txt
